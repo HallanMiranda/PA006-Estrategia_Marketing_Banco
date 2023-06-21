@@ -1,0 +1,65 @@
+1- Input (Problema do negocio)
+
+a. Problema do nogocio
+b. Questao que serao respondidas
+c. Dados de entrada/ fonte de dados
+
+2- Output (Produto de Dados)
+
+a. Analise do dados
+b. Algoritimos de machine learning
+c. Dash board em algumas ferramentas de visualizacao
+
+3- Task (Tarefas)
+
+a. Plano de Execuçao
+b. Ferramentas    
+PA 006 Bank Marketing Strategy
+Planejamento da Solucao
+Input
+vove fio contratado como cientista de dados consultor para criar um produto de dados que cria uma sguimentacao de clientes que direcionara a estrategia de marketing e os resultados eserados de seu trabalho de consultoria sao os seguintes :
+
+1. Criar uma seguimentacao de clientes baseados em criterios de selecao.
+2. Tornar a sguimentacao acessivel para o time de operacoes.
+3. Ensinar o time de Operacao de como usar a sua solucao.
+4. Transferir o conhecimento para os cientistas de Dados da Internacional bank.
+5. Recomendar  de 2 a 3 alavancas de negocio para cada seguimento de clientes.
+
+Output
+- Ferramentas
+  * Metabase
+  * Streamlit
+- URL para o time de operacoes testar
+- Downloading dos dados selecionados  
+Tasks
+Descrição dos dados
+
+Substituição de NA's.
+Detecção de Outliers.
+EDA
+
+Análise Univariada
+Análise Bivariada
+Detecação de outliers
+Seleção de Features
+Estudo do Espaço
+Definição do Embedding
+Treinamento dos algoritmos de ML.
+
+Análise de Performance
+Análise de Clustering.
+Definição dos número de clustering.
+EDA - Insights
+
+Explicação das características dos segmentos
+Tabela para armazenar os clientes clusterizados.
+
+Criação do notebook de produção.
+
+Arquitetura da AWS.
+
+S3 para armazenar os dados
+EC2 para armazenar o ETL e a ferramenta de visualização.
+DB para armazenar a tabela
+Cronjob
+Papermili
